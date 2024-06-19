@@ -1,0 +1,5 @@
+﻿  main.c
+  Proj.c
+C:\Users\DELL\Desktop\projekt koncowy\Proj.c(134,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Proj_Sałapatek_Maczek_C.vcxproj -> C:\Users\DELL\Desktop\projekt koncowy\x64\Debug\Proj_Sałapatek_Maczek_C.exe
